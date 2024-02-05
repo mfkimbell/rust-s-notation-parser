@@ -1,0 +1,1 @@
+/Users/mitchellkimbell/Desktop/S-notation\ Parser/test/public-3/target/debug/parser_tests: /Users/mitchellkimbell/Desktop/S-notation\ Parser/src/lib.rs /Users/mitchellkimbell/Desktop/S-notation\ Parser/test/public-3/src/main.rs
